@@ -18,7 +18,7 @@ app.get('/', function(req, res) {
 })
 ; 
 //Mã truy cập trang
-let token = "EAAUxqHfEQqYBAM2EZBDYnMbMjoW1vpVtMdAN86tWneXZCQIEkSnL8FekWailX1SA3ZCqBd2xAgZAJ4jXdw7zbNHUfDA00ZCMvBtvXfow0hZCroAglk2ZCZAZBv4LAEGd5YgiRQYDdneaLmWn5JJiQvkUk6XwtcVof9pVuwduT7GgtYAZDZD"
+let token = "EAAUxqHfEQqYBABKQ3dYRxqsZACLAU5fNquHcDqyOKy0VXsZBquD3O3xZCeM05P6bVaByWXGuP1hBY6LhNfHdOEDSEPmFOt8DDWLNN4c3OeBTrGm7y166vNl7hk8Ljcf7ywpYTvfRKmYZCTnaZBaUg433AJxZCl3BX36YyRnugbGQZDZD"
 
 // Facebook 
 app.get('/webhook', function(req, res) {
